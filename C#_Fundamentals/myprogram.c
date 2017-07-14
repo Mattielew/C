@@ -8,3 +8,4 @@ int main (in argc, char *argv[])
                         115, 041, 012, 0 };
     printf(array, array2);
 }
+
